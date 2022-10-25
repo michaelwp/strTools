@@ -1,2 +1,2 @@
-# str_tools
+# strTools
 go library for helping work with string
